@@ -1,5 +1,5 @@
 # 2DGT20-External
-DATE: 24/08/2022
+DATE: 24/08/2022  
 LAST UPDATED: 24/08/2022
 ## Description
 For the final project of our digital technology class, we were tasked with identifying and solving a real world problem.
